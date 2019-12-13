@@ -1,0 +1,31 @@
+h1 {
+    color: aqua; 
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: 'Kalam', cursive;
+
+
+}
+body {
+    text-align: center;
+    background: grey;
+}
+
+h2 {
+    color: aqua;
+    font-size: 75px;
+    font-family: 'Kalam', cursive;
+} 
+
+button {
+    color: aqua;
+    font-size: 35px;
+    background: black;
+}
+
+textarea {
+    font-size: 50px;
+    color:blueviolet;
+    
+}
+
